@@ -1,4 +1,4 @@
-# Cervical-Cancer-Prediction
+# Prediction of diagnosis of Cervical Cancer using ML
 
 # Problem Statement
 This project aims to predict the risk of cervical cancer in individuals based on demographic information, habits, and historic medical records. The goal is to build a predictive model utilizing multiple classification models. The dataset includes features such as age, number of sexual partners, pregnancy history, smoking habits, STD records, and other demographic details. The objective is to create a robust predictive model that can identify potential indicators or risks associated with cervical cancer.
